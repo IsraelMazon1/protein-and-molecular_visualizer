@@ -1,0 +1,13 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+pydantic==2.11.2
+pydantic-settings==2.8.1
+python-dotenv==1.1.0
+requests==2.32.3
+httpx==0.28.1
+certifi==2026.02.25
+motor==3.7.1
+pymongo==4.16.0
+dnspython==2.7.0
+rdkit
+biopython==1.85
